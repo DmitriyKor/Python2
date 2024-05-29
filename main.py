@@ -20,3 +20,4 @@ a5= (x_int % 10)//1
 res=a5*10000 + a4*1000 +a3*100 + a2*10 + a1
 
 print( res )
+print (res)
